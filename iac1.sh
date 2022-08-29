@@ -2,10 +2,10 @@
 
 echo "Criando diretórios..."
 
-mkdir /publico
-mkdir /adm
-mkdir /ven
-mkdir /sec
+mkdir /home/publico
+mkdir /home/adm
+mkdir /home/ven
+mkdir /home/sec
 
 echo "Criando grupos de usuários..."
 
